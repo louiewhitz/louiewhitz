@@ -3,7 +3,7 @@
  My life is now... all about code. :stuck_out_tongue_winking_eye:	:desktop_computer:
 ## :mag_right: About Me
 * :earth_americas: Currently live in Irvine, speak three human languages, lucky enough to have travelled the world	
-* :woman_technologist: Coding everyday in order to master **React**, **Node**, and its future delelopments, using [**The Check In** ](https://the-check-in.louisawhitaker.com/)and the world wide web as my playground. 
+* :woman_technologist: Coding everyday in order to master **React**, **Node**, and its future delelopments, using [**The Check In** ](https://the-check-in.louisawhitaker.com/) app and the world wide web as my playground. 
 * :brain: Serious dabbling in **Python** and **data structures**. 
 
 * :briefcase: Looking for work as a full-stack or front-end web-developer, on-site or remote, really anywhere around the world. Eager to expand my knowledge of computer languages.
