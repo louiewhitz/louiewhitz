@@ -1,6 +1,6 @@
 # Hi, Welcome 👋
  My name is **Louisa**, I am a **full-stack Software Engineer** specialilizing in **React**, **Node**, and **front-end technologies**.<br>
- My life is... all about code. :stuck_out_tongue_winking_eye:	:desktop_computer:
+ My life... is all about code. :stuck_out_tongue_winking_eye:	:desktop_computer:
 ## :mag_right: About Me
 * :earth_americas: Currently live in Irvine, CA, speak three human languages, lucky enough to have travelled the world	
 * :woman_technologist: Coding everyday in order to master **React**, **Node**, and its future delelopments, using [**The Check In** ](https://the-check-in.louisawhitaker.com/) app and the world wide web as my playground. 
