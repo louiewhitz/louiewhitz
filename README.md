@@ -14,6 +14,21 @@
 * [LinkedIn](https://www.linkedin.com/in/louisa-whitaker/)
 * [Resume](https://flowcv.com/resume/fkodbpiw88)
 
+## GitHub stats
+<a href="https://github.com/louiewhitz">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=louiewhitz&hide=stars&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
+</a>
+<a href="https://github.com/louiewhitz">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiewhitz&layout=compact">
+</a>
+
+<a href="https://github.com/louiewhitz/the-check-in">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=louiewhitz&repo=the-check-in&show_owner=true" />
+</a>
+<a href="https://github.com/louiewhitz/the-check-in">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=louiewhitz&repo=capture-nasa&show_owner=true" />
+</a>
+
 
 ## 🛠️ Technologies ~ Tools:
 <div class="tech" align=left>
@@ -45,17 +60,4 @@
 </div>
 
 
-## GitHub stats
-<a href="https://github.com/louiewhitz">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=louiewhitz&hide=stars&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
-</a>
-<a href="https://github.com/louiewhitz">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiewhitz&layout=compact">
-</a>
 
-<a href="https://github.com/louiewhitz/the-check-in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=louiewhitz&repo=the-check-in&show_owner=true" />
-</a>
-<a href="https://github.com/louiewhitz/the-check-in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=louiewhitz&repo=capture-nasa&show_owner=true" />
-</a>
