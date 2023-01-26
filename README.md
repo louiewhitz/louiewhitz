@@ -1,6 +1,6 @@
 # Hi, Welcome 👋
- My name is Louisa, and I recently graduated from LearningFuze's full-time immersive Software Engineering bootcamp. 
- My life is now... all about code. :stuck_out_tongue_winking_eye:	:desktop_computer:
+ My name is **Louisa**, I am a **full-stack Software Engineer** specialilizing in **_React_**, **_Node_** **_front-end frameworks_**. 
+ My life is... all about code. :stuck_out_tongue_winking_eye:	:desktop_computer:
 ## :mag_right: About Me
 * :earth_americas: Currently live in Irvine, CA, speak three human languages, lucky enough to have travelled the world	
 * :woman_technologist: Coding everyday in order to master **React**, **Node**, and its future delelopments, using [**The Check In** ](https://the-check-in.louisawhitaker.com/) app and the world wide web as my playground. 
