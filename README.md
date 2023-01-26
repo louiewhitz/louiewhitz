@@ -1,5 +1,5 @@
 # Hi, Welcome 👋
- My name is **Louisa**, I am a **full-stack Software Engineer** specialilizing in **_React_**, **_Node_** **_front-end frameworks_**. 
+ My name is **Louisa**, I am a **full-stack Software Engineer** specialilizing in **React**, **Node**, and **front-end technologies**.<br>
  My life is... all about code. :stuck_out_tongue_winking_eye:	:desktop_computer:
 ## :mag_right: About Me
 * :earth_americas: Currently live in Irvine, CA, speak three human languages, lucky enough to have travelled the world	
