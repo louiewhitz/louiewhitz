@@ -50,9 +50,11 @@
 
 ## GitHub Stats
                                                                                                                                                                            
-<a href="https://github.com/louiewhitz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=louiewhitz&hide=stars&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"></a><a href="https://github.com/louiewhitz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiewhitz&layout=compact">
+<a href="https://github.com/louiewhitz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=louiewhitz&count_private=true&show_icons=true&hide=stars&theme=transparent"></a><a href="https://github.com/louiewhitz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiewhitz&layout=compact">
 </a>
-       <a href="https://github.com/louiewhitz"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=louiewhitz&theme=vue"></a>                                                                                                                                                                                                                                
+       <a href="https://github.com/louiewhitz"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=louiewhitz&theme=vue"></a>     
+
+
                                                                                                                                  
 
                                                                                                                                  
